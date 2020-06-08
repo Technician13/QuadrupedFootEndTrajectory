@@ -5,5 +5,5 @@
 * Where, the code of the inverse kinematics solution is as follows:
 [https://github.com/Technician13/QuadrupedInverseKinematic](https://github.com/Technician13/QuadrupedInverseKinematic)
 
-<br>![images](https://github.com/Technician13/QuadrupedFootEndTrajectory/raw/master/untitled.jpg?raw=true)
+<div align=center>![images](https://github.com/Technician13/QuadrupedFootEndTrajectory/raw/master/untitled.jpg?raw=true)》
 
